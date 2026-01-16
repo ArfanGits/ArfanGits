@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/arfanakhan](https://www.linkedin.com/in/arfanakhan)
 
-- ⚡ Fun fact **I am a Anime Fan**
+- ⚡ Fun fact **I am an Anime Fan**
 
 
 <br>
