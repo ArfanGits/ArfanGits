@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Arfan A Khan</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3> 
+<h3 align="center">A passionate IT Analyst from Canada</h3> 
 
 <br>
 <br>
